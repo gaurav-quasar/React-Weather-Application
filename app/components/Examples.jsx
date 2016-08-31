@@ -1,5 +1,5 @@
 var React = require('react');
 
-var Examples = () => <h2>Examples Component</h2>;
+var Examples = () => <h2>Examples</h2>;
 
 module.exports = Examples;
