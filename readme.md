@@ -1,1 +1,1 @@
-My Weather Application.
+My Weather Application. Just a sample.
