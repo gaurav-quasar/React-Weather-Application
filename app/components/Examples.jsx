@@ -5,7 +5,7 @@ var Examples = () => {
   return (
       <div>
         <h1 className='text-center'>Examples</h1>
-        <p>Here are a few locations to try:</p>
+        <p>Below are a few locations to try:</p>
         <ol>
           <li>
             <Link to='/?location=Delhi'>Delhi, India</Link>
