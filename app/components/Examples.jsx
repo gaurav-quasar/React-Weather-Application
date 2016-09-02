@@ -8,13 +8,13 @@ var Examples = () => {
         <p>Below are a few locations to try:</p>
         <ol>
           <li>
-            <Link to='/?location=Delhi'>Delhi, India</Link>
+            <Link to='/?city=Delhi'>Delhi, India</Link>
           </li>
           <li>
-            <Link to='/?location=Tokyo'>Tokyo, Japan</Link>
+            <Link to='/?city=Tokyo'>Tokyo, Japan</Link>
           </li>
           <li>
-            <Link to='/?location=Jersey City'>Jersey City, NJ</Link>
+            <Link to='/?city=Jersey City'>Jersey City, NJ</Link>
           </li>
         </ol>
       </div>
